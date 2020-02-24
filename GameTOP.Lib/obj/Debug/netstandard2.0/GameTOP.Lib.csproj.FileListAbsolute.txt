@@ -1,0 +1,12 @@
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.deps.json
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.dll
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.pdb
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTop.Interface.dll
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTop.Interface.pdb
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csprojAssemblyReference.cache
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfoInputs.cache
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfo.cs
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CopyComplete
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.dll
+D:\Desktop\Nayara\Cursos Udemy\Full-Stack com Asp.Net Core web API- Angular   e EF Core\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.pdb
